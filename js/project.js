@@ -27,7 +27,7 @@ async function chartIt(){
 }
 
 async function getData(){
-  response = await fetch('https://raw.githubusercontent.com/BadBob2021/E/main/United-states-births.csv?token=ABDBPLGVTOFRWKU4W2OSMSLBVU73A');
+  response = await fetch('https://raw.githubusercontent.com/robert00000/Art101-Project-Group-2/main/births.csv');
   const data = await response.text();
   const table = data.split('\n').slice(1);
   table.forEach(row =>{
