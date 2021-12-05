@@ -1,11 +1,13 @@
 #content {
-  background-color: lightblue;
   min-height: 100px;
   padding: 50px; */
   margin: 0%;
-  border: solid 10px pink;
-  font-size: 30px
+  border: solid 5px black;
+  font-size: 16px
 
+}
+.padding{
+  border: solid 5px black;
 }
 p{
   text-align: center;
@@ -23,5 +25,5 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
 }
