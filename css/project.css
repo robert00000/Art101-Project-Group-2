@@ -20,6 +20,12 @@ p{
   font-size: 25px;
   font-family: "Apple Chancery", cursive;
 }
+h1{
+  text-align: center;
+  color: black;
+  font-size: 55px;
+  font-family: "Impact";
+}
 h2{
   text-align: center;
   color: black;
