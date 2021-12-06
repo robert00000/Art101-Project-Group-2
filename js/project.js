@@ -43,3 +43,5 @@ async function getData(){
 //   console.log("Button pushed")
 //
 // })
+
+new emojiCursor();
