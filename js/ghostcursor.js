@@ -1,5 +1,5 @@
 function emojiCursor(options) {
-  const possibleEmoji = (options && options.emoji) || ["🍼"]
+  const possibleEmoji = (options && options.emoji) || ["👶"]
   let hasWrapperEl = options && options.element
   let element = hasWrapperEl || document.body
 
