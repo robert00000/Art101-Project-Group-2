@@ -8,10 +8,15 @@
 }
 .chartBox{
   width: 400px;
-  height: 300px;
+  height: 400px;
 }
 .padding{
+  min-height: 10px;
+  padding: 25px; */
+  margin: 0%;
   border: solid 5px black;
+  font-size: 16px
+
 }
 p{
   text-align: center;
