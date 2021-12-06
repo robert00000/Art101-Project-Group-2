@@ -3,7 +3,7 @@
   padding: 25px;
   margin: 0%;
   border: solid 5px black;
-  background-color: pink;
+  background-color: tan;
   font-size: 16px;
 }
 .chartBox{
@@ -16,7 +16,7 @@
 }
 p{
   text-align: center;
-  color: teal;
+  color: brown;
   font-size: 25px;
   font-family: "Apple Chancery", cursive;
 }
